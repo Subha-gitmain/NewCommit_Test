@@ -11,6 +11,8 @@ public class TC01Test extends BaseClass {
 	@Test
 	public void createContactPage() {
 		
+		System.out.println("1st");
+		
 		
 	}
 
